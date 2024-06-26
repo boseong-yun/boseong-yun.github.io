@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Peter Boseong Yun / "
+title                    : "Peter Boseong Yun "
 title_separator          : "-"
 name                     : &name "Peter Boseong Yun"
 description              : &description "Hello, I am a graduate student."
