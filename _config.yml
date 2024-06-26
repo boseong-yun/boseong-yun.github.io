@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "prof/pic.png"
+  avatar           : "images/prof/pic.png"
   name             : "Peter Boseong Yun"
   pronouns         : "he/him/his" 
   bio              : "Hi, I am a graduate student"
