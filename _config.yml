@@ -35,7 +35,7 @@ author:
   location         : "New Haven, CT"
   employer         : "Yale University"
   uri              : # URL
-  email            : "boseong.yun@yale.edu" 
+  # email            : "boseong.yun@yale.edu" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "boseong-yun"
+  # github           : "boseong-yun"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
